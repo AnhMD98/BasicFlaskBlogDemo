@@ -1,5 +1,10 @@
 Flask
 =====
+VÍ DỤ VỀ BLOG RẤT CƠ BẢN.
+ĐƯỜNG DẪN THƯ MỤC DEMO MẪU
+/FLASK/EXAMPLES/TUTORIALS
+CÁCH RUN CODE XEM TRONG THƯ MỤC CHỨA CODE MẪU
+
 
 Flask is a lightweight `WSGI`_ web application framework. It is designed
 to make getting started quick and easy, with the ability to scale up to
